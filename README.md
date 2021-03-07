@@ -36,6 +36,5 @@ I’m currently working on ...
 - ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the time
 
 [![Twitter: ghcc](https://img.shields.io/twitter/follow/ghhc_?style=social)](https://twitter.com/ghhc_)
-[![Linkedin: Guilherme Henrique](https://img.shields.io/badge/-Guilherme Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/guilherme-henrique-752508189/)
 [![GitHub ghenriquec](https://img.shields.io/github/followers/ghenriquec?label=follow&style=social)](https://github.com/ghenriquec)
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](http://aboutme.mywebcommunity.org/)
