@@ -77,7 +77,7 @@ I’m currently working on ...
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thank you for visit to my profile ❤️
 
 </div>
 
