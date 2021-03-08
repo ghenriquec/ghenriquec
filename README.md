@@ -68,7 +68,7 @@ I’m currently working on ...
 </a>
 <br>
 
-**Tips for read-me: **  
+**Tips for read-me:**  
 <a href="https://github.com/ghenriquec/readme-best-practices">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices&theme=dark" />
 </a>
