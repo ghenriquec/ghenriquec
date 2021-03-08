@@ -5,7 +5,7 @@
 <a href="https://twitter.com/ghhc_">
   <img align="left" alt="Guilherme Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/guilherme-henrique-752508189/">
+<a href="www.linkedin.com/in/ghenriquec">
   <img align="left" alt="Guilherme Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ghenriquec">
