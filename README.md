@@ -54,12 +54,15 @@ I’m currently working on ...
 <a href="https://github.com/ghenriquec">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&theme=dark&hide_langs_below=1" />
 </a>
+<br>
 <a href="https://github.com/ghenriquec">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27" alt="Guilherme github stats"/>
 </a>
+<br>
 <a href="https://github.com/ghenriquec/Proffy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark" />
 </a>
+<br>
 <a href="https://github.com/ghenriquec/Happy">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Happy&theme=dark" />
 </a>
