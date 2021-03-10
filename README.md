@@ -1,4 +1,4 @@
-## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/) 👋
+## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
