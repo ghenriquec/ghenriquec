@@ -84,7 +84,7 @@ I’m currently working on ...
     ##Thank you for visit my profile! 
 
   <p align="center">    
-<img src="https://github.com/ghenriquec/ghenriquec/blob/main/supermario%20gif.gif" />
+<img src="https://giphy.com/gifs/thank-you-thankyou-365daysocial-dWUHycuI7PPneB62TC" />
   </p>
 </p>
 
