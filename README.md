@@ -80,7 +80,13 @@ I’m currently working on ...
 
 <div align="center">
 
-### Thank you for visit to my profile ❤️
+ <p align="center">
+    ##Thank you for visit my profile! 
+
+  <p align="center">    
+<img src="https://github.com/ghenriquec/ghenriquec/blob/main/supermario%20gif.gif" />
+  </p>
+</p>
 
 </div>
 
