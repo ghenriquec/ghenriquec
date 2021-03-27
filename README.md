@@ -54,25 +54,22 @@ I’m currently working on ...
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 ## 💻Coding Activity
-<p align="center">
-  <a href="https://github.com/kogisin">
+<p align="left">
+  <a href="https://github.com/ghenriquec">
     <a href="https://github.com/ghenriquec"><img height="285px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&theme=dark&hide_langs_below=1"/>
     </a>
   </a>
 </p>
 
-<br>
-<a href="https://github.com/ghenriquec/Proffy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark" />
+<p align="left">
+    <a href="https://github.com/ghenriquec/Proffy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark" />
+    <a href="https://github.com/ghenriquec/Happy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Happy&theme=dark" />
+  </a>
 </a>
-<br>
-<a href="https://github.com/ghenriquec/Happy">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Happy&theme=dark" />
-</a>
-<br>
-
-<div></div>
+</p>
 
 ## 💻Tips for ReadMe
 <a href="https://github.com/ghenriquec/readme-best-practices">
@@ -82,6 +79,6 @@ I’m currently working on ...
 <div align="center">
 
  <p align="center">
-    ## Thank you for visit my profile!❤
+    ## Thank You for my profile ❤
 </div>
 
