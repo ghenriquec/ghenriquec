@@ -81,5 +81,7 @@ I’m currently working on ...
   </a>
 </p>
 
+<p align="center">
 ## ❤ Thank You for visit my profile!
 <img align="center" src="https://github.com/ghenriquec/ghenriquec/blob/main/dino.gif" />
+</p>
