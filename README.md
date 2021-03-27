@@ -28,6 +28,7 @@
 <br/>
 <br/>
 
+## 💻 About me
 I’m currently working on ...
 - 🌱 I’m currently learning more about JavaScript, React and NodeJS
 - 👯 I’m looking to collaborate on React projects
@@ -41,8 +42,8 @@ I’m currently working on ...
 [![GitHub ghenriquec](https://img.shields.io/github/followers/ghenriquec?label=follow&style=social)](https://github.com/ghenriquec)
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](http://aboutme.mywebcommunity.org/)
 
-**Languages and Tools:**  
-
+## 🛠️Tech Stack
+- 💻 Programming Languages 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -52,6 +53,7 @@ I’m currently working on ...
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
+## 💻Coding Activity
 <a href="https://github.com/ghenriquec">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&theme=dark&hide_langs_below=1" />
 </a>
@@ -71,7 +73,7 @@ I’m currently working on ...
 
 <div></div>
 
-**Tips for read-me:**  
+## 💻Tips for ReadMe
 <a href="https://github.com/ghenriquec/readme-best-practices">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices&theme=dark" />
 </a>
