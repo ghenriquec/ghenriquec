@@ -75,10 +75,12 @@ I’m currently working on ...
 </p>
 
 ## 💻Tips for ReadMe
-<a href="https://github.com/ghenriquec/readme-best-practices">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices&theme=dark" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/ghenriquec/readme-best-practices">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices&theme=dark" />
+  </a>
+</p>
+<div>
  <p align="center">
     ## Thank You for my profile ❤
 </div>
