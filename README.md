@@ -55,7 +55,7 @@ I’m currently working on ...
 
 ## 🛠️Code Activity
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ghenriquec">
     <a href="https://github.com/ghenriquec"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/>
     <img width="442px" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&layout=compact&theme=dark"/>
@@ -65,22 +65,22 @@ I’m currently working on ...
 
 ## 🛠️Projects
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ghenriquec">
-    <a href="https://github.com/ghenriquec/Proffy"><img height="185px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark"/>
-    <a href="https://github.com/ghenriquec/Happy"><img height="185px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Happy&theme=dark"/>
+    <a href="https://github.com/ghenriquec/Proffy"><img width="442px" height="185px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark"/>
+    <a href="https://github.com/ghenriquec/Happy"><img width="442px" height="185px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Happy&theme=dark"/>
       </a>
     </a>
   </a>
 </p>
 
 ## 💻Tips for ReadMe
-<p align="center">
+<p align="left">
   <a href="https://github.com/ghenriquec/readme-best-practices">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices&theme=dark" />
   </a>
 </p>
-<div>
+
  <p align="center">
     ## Thank You for my profile ❤
 </div>
