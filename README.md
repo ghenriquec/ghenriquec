@@ -43,7 +43,7 @@ I’m currently working on ...
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](http://aboutme.mywebcommunity.org/)
 
 ## 🛠️Tech Stack
-- 💻 Programming Languages 
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -81,12 +81,6 @@ I’m currently working on ...
 <div align="center">
 
  <p align="center">
-    ##Thank you for visit my profile! 
-
-  <p align="center">    
-<img src="https://giphy.com/gifs/thank-you-thankyou-365daysocial-dWUHycuI7PPneB62TC" />
-  </p>
-</p>
-
+    ## Thank you for visit my profile!❤
 </div>
 
