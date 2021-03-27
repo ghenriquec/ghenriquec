@@ -56,17 +56,17 @@ I’m currently working on ...
 ## 💻Coding Activity
 <p align="left">
   <a href="https://github.com/ghenriquec">
-    <a href="https://github.com/ghenriquec"><img height="285px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&theme=dark&hide_langs_below=1"/>
+    <a href="https://github.com/ghenriquec"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/>
+    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&theme=dark&hide_langs_below=1"/>
     </a>
   </a>
 </p>
 
 <p align="left">
     <a href="https://github.com/ghenriquec/Proffy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark" />
+      <img align="center" height="185px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark" />
     <a href="https://github.com/ghenriquec/Happy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Happy&theme=dark" />
+      <img align="center" height="185px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Happy&theme=dark" />
   </a>
 </a>
 </p>
