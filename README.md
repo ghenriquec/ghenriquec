@@ -81,7 +81,5 @@ I’m currently working on ...
   </a>
 </p>
 
- <p align="center">
-    ## Thank You for my profile ❤
-</div>
+## ❤ Thank You for visit my profile!
 
