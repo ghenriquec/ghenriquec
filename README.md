@@ -1,7 +1,7 @@
 ## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
 
 <a href="https://twitter.com/ghhc_">
   <img align="left" alt="Guilherme Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
