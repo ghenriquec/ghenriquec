@@ -56,8 +56,9 @@ I’m currently working on ...
 ## 💻Coding Activity
 <p align="center">
   <a href="https://github.com/kogisin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&theme=dark&hide_langs_below=1"/>
-    <a href="https://github.com/ghenriquec"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/></a>
+    <a href="https://github.com/ghenriquec"><img src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&theme=dark&hide_langs_below=1"/>
+    </a>
   </a>
 </p>
 
