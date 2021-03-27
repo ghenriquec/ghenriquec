@@ -82,4 +82,4 @@ I’m currently working on ...
 </p>
 
 ## ❤ Thank You for visit my profile!
-
+<img align="center" src="https://github.com/ghenriquec/ghenriquec/blob/main/dino.gif" />
