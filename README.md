@@ -58,7 +58,7 @@ I’m currently working on ...
 <p align="left">
   <a href="https://github.com/ghenriquec">
     <a href="https://github.com/ghenriquec"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/>
-    <img width="350px" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&layout=compact"/>
+    <img width="442px" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&layout=compact&theme=dark"/>
     </a>
   </a>
 </p>
