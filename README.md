@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
 
-<a href="https://twitter.com/ghhc_">
-  <img align="left" alt="Guilherme Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="www.linkedin.com/in/ghenriquec">
   <img align="left" alt="Guilherme Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -34,10 +31,10 @@ I’m currently working on ...
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about JavaScript or any tech related stuff.
-- 📫 How to reach me: [Twitter - @ghhc_](https://twitter.com/ghhc_) , [Instagram - @ghenriquecs](https://www.instagram.com/ghenriquecs/)
-- ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the time
+- 📫 How to reach me: [Instagram - @ghenriquecs](https://www.instagram.com/ghenriquecs/)
+- ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the 
+- time
 
-[![Twitter: ghcc](https://img.shields.io/twitter/follow/ghhc_?style=social)](https://twitter.com/ghhc_)
 [![Linkedin: Guilherme Henrique](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/ghenriquec)
 [![GitHub ghenriquec](https://img.shields.io/github/followers/ghenriquec?label=follow&style=social)](https://github.com/ghenriquec)
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](http://aboutme.mywebcommunity.org/)
