@@ -64,8 +64,8 @@ I’m currently working on ...
 
 <p align="left">
   <a href="https://github.com/ghenriquec">
-    <a href="https://github.com/ghenriquec/Proffy"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=Proffy&theme=dark"/>
-    <a href="https://github.com/ghenriquec/Happy"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=happy&theme=dark"/>
+    <a href="https://github.com/ghenriquec/Proffy"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01&theme=dark"/>
+    <a href="https://github.com/ghenriquec/Happy"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01&theme=dark"/>
       </a>
     </a>
   </a>
