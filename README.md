@@ -62,7 +62,14 @@ I’m currently working on ...
 
 ## 🛠️Projects
 
-
+<p align="left">
+  <a href="https://github.com/ghenriquec">
+    <a href="https://github.com/ghenriquec/WatchMe-Chapter01"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01&theme=dark"/>
+    <a href="https://github.com/ghenriquec/ToDoList-Chapter01"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01&theme=dark"/>
+      </a>
+    </a>
+  </a>
+</p>
 
 ## 💻Tips for ReadMe
 <p align="left">
