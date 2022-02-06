@@ -14,7 +14,9 @@ I’m currently working on ...
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me:
+  <div>
   <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"            target="_blank"></a>
+  </div>
 - ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the 
 time
 
