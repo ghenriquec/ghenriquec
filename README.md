@@ -51,12 +51,13 @@ My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high
 </a>
 
 
-## 💻Tips for ReadMe
-<p align="left">
+## 💻Tips for Readme
   <a href="https://github.com/ghenriquec/readme-best-practices">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices&theme=discord_old_blurple" />
   </a>
-</p>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=othneildrew&repo=Best-README-Template&theme=discord_old_blurple" />
+  </a>
 
 
 ## ❤ Thank You for visit my profile!
