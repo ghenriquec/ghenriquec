@@ -1,10 +1,5 @@
 ## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
-
-<br/>
-<br/>
 
 ## 💻 About me
 
