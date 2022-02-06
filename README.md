@@ -60,10 +60,10 @@ I’m currently working on ...
 ## 🛠️Projects
 
 <a href="https://github.com/ghenriquec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01" />
 </a>
 <a href="https://github.com/ghenriquec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01" />
 </a>
 
 
