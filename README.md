@@ -8,17 +8,21 @@
 
 ## 💻 About me
 
-I’m currently working on ...
-- 🌱 I’m currently learning more about JavaScript, React and NodeJS
-- 👯 I’m looking to collaborate on React projects
-- 🤔 I’m looking for help with C#
-- 💬 Ask me about JavaScript or any tech related stuff.
+My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high school and am currently studying information systems at UNA-BH.
+
+- 🌱 I am currently learning more about JavaScript, React and NodeJS
+- 👯 I'm looking to collaborate on React projects
+- 🤔 I'm looking for help with C#
+- 💬 Ask me about JavaScript or anything tech related.
+- ⚡ Fun fact: I'm very excited about any project and I'm listening to music all the time
+- ⚡ Another fun fact: I worked as a Java Developer for 8 months and it was one of the best experiences of my life, where I learned a lot and met extraordinary people.
+
 - 📫 How to reach me:
   <div>
-  <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"            target="_blank"></a>
+  <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"        target="_blank"></a>
+  <a href = "https://www.instagram.com/ghenriquecs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "www.linkedin.com/in/ghenriquec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
-- ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the 
-time
 
 
 ## 🛠️Tech Stack
