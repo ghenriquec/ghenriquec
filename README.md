@@ -35,9 +35,24 @@ I’m currently working on ...
 - ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the 
 - time
 
-[![Linkedin: Guilherme Henrique](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/ghenriquec)
-[![GitHub ghenriquec](https://img.shields.io/github/followers/ghenriquec?label=follow&style=social)](https://github.com/ghenriquec)
-[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](http://aboutme.mywebcommunity.org/)
+<a href="www.linkedin.com/in/ghenriquec">
+  <img align="left" alt="Guilherme Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ghenriquec">
+  <img align="left" alt="Guilherme Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Guilherme Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/ghenriquecs/">
+  <img align="left" alt="Guilherme Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Guilherme Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 ## 🛠️Tech Stack
 
@@ -64,8 +79,8 @@ I’m currently working on ...
 
 <p align="left">
   <a href="https://github.com/ghenriquec">
-    <a href="https://github.com/ghenriquec/WatchMe-Chapter01"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01&theme=dark"/>
-    <a href="https://github.com/ghenriquec/ToDoList-Chapter01"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01&theme=dark"/>
+    <a href="https://github.com/ghenriquec/WatchMe-Chapter0"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01&theme=dark"/>
+    <a href="https://github.com/ghenriquec/ToDoList-Chapter0"><img height="185px" width="385px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01&theme=dark"/>
       </a>
     </a>
   </a>
