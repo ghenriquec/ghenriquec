@@ -51,8 +51,8 @@ I’m currently working on ...
 
 <p align="left">
   <a href="https://github.com/ghenriquec">
-    <a href="https://github.com/ghenriquec"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=dark&line_height=27"/>
-    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&layout=compact&theme=dark"/>
+    <a href="https://github.com/ghenriquec"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&line_height=27"/>
+    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&layout=compact"/>
     </a>
   </a>
 </p>
@@ -70,7 +70,7 @@ I’m currently working on ...
 ## 💻Tips for ReadMe
 <p align="left">
   <a href="https://github.com/ghenriquec/readme-best-practices">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=readme-best-practices" />
   </a>
 </p>
 
