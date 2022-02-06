@@ -3,37 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
 
-<a href="www.linkedin.com/in/ghenriquec">
-  <img align="left" alt="Guilherme Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ghenriquec">
-  <img align="left" alt="Guilherme Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Guilherme Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/ghenriquecs/">
-  <img align="left" alt="Guilherme Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Guilherme Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
 <br/>
 <br/>
 
 ## 💻 About me
+
 I’m currently working on ...
 - 🌱 I’m currently learning more about JavaScript, React and NodeJS
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about JavaScript or any tech related stuff.
-- 📫 How to reach me: [Instagram - @ghenriquecs](https://www.instagram.com/ghenriquecs/)
+- 📫 How to reach me:
+  <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"            target="_blank"></a>
 - ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the 
-- time
+time
 
 
 ## 🛠️Tech Stack
