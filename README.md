@@ -37,7 +37,6 @@ My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high
 
 <p align="left">
   <a href="https://github.com/ghenriquec">
-    <a href="https://github.com/ghenriquec"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=ghenriquec&show_icons=true&theme=discord_old_blurple&line_height=27"/>
     <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&layout=compact&theme=discord_old_blurple"/>
     </a>
   </a>
