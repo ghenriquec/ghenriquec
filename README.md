@@ -47,10 +47,10 @@ My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high
 
 ## 🛠️Projects
 
-<a href="https://github.com/ghenriquec">
+<a href="https://github.com/ghenriquec/WatchMe-Chapter01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01&theme=discord_old_blurple" />
 </a>
-<a href="https://github.com/ghenriquec">
+<a href="https://github.com/ghenriquec/ToDoList-Chapter01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01&theme=discord_old_blurple" />
 </a>
 
