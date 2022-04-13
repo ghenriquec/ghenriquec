@@ -1,8 +1,6 @@
 ## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
 
-!(https://metrics.lecoq.io/ghenriquec?template=classic&config.timezone=America%2FBrasilia)
-
 ## 💻 About me
 
 My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high school and am currently studying information systems at UNA-BH.
