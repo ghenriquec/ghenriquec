@@ -43,9 +43,6 @@ My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high
     </a>
   </a>
 </p>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghenriquec&theme=ayu-mirage&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 
 ## 🛠️Projects
 
