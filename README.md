@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
 
 ## 💻 About me
-```js
+```
 My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high school and am currently studying information systems at UNA-BH.
 
 - 🌱 I am currently learning more about JavaScript, React and NodeJS
@@ -10,7 +10,7 @@ My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high
 - 🤔 I'm looking for help with C#
 - 💬 Ask me about JavaScript or anything tech related.
 - ⚡ Fun fact: I'm very excited about any project and I'm listening to music all the time
-- ⚡ Another fun fact: I worked as a Java Developer for 8 months and it was one of the best experiences of my life, where I learned a lot and met extraordinary people.
+- ⚡ Another fun fact: I worked as a Java Developer for 8 months <br> and it was one of the best experiences of my life, where I learned a lot and met extraordinary people.
 ```
 - 📫 How to reach me:
   <div>
