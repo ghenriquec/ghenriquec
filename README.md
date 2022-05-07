@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
 
 ## 💻 About me
-My name is Guilherme Henrique, I'm 17 years old. I graduated from technical high school and am currently studying information systems at UNA-BH.
+My name is Guilherme Henrique, I'm 18 years old. I graduated from technical high school and am currently studying information systems at UNA-BH.
 
 - 🌱 I am currently learning more about JavaScript, React and NodeJS
 - 👯 I'm looking to collaborate on React projects
