@@ -1,5 +1,5 @@
 ## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gui.henriquecoelhos&label=Views&color=blue&style=plastic" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
 
 ## 💻 About me
 My name is Guilherme Henrique, I'm 18 years old. I graduated from technical high school and am currently studying software engineering at PUC-MINAS.
@@ -13,7 +13,7 @@ My name is Guilherme Henrique, I'm 18 years old. I graduated from technical high
 - 📫 How to reach me:
   <div>
   <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"        target="_blank"></a>
-  <a href = "https://www.instagram.com/ghenriquecs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "https://www.instagram.com/gui.henriquecoelhos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "www.linkedin.com/in/ghenriquec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 
