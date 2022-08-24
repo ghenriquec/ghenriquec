@@ -1,5 +1,5 @@
 ## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gui.henriquecoelhos&label=Views&color=blue&style=plastic" alt="" /> </p>
 
 ## 💻 About me
 My name is Guilherme Henrique, I'm 18 years old. I graduated from technical high school and am currently studying software engineering at PUC-MINAS.
