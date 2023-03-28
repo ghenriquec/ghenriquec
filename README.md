@@ -9,7 +9,6 @@ My name is Guilherme Henrique, I'm 18 years old. I graduated from technical high
 - 🤔 I'm looking for help with C#
 - 💬 Ask me about JavaScript or anything tech related.
 - ⚡ Fun fact: I'm very excited about any project and I'm listening to music all the time
-- ⚡ Another fun fact: I worked as a Java Developer for 8 months and it was one of the best experiences of my life, where I learned a lot and met extraordinary people.
 - 📫 How to reach me:
   <div>
   <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"        target="_blank"></a>
