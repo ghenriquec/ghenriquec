@@ -4,10 +4,10 @@
 ## 💻 About me
 My name is Guilherme Henrique, I'm 18 years old. I graduated from technical high school and am currently studying software engineering at PUC-MINAS.
 
-- 🌱 I am currently learning more about JavaScript, React and NodeJS
-- 👯 I'm looking to collaborate on React projects
-- 🤔 I'm looking for help with C#
-- 💬 Ask me about JavaScript or anything tech related.
+- 🌱 I am currently learning more about Java, AngularJs and SQL
+- 👯 I'm looking to collaborate on Java projects
+- 🤔 I'm looking for help with Java
+- 💬 Ask me about Java or anything tech related.
 - ⚡ Fun fact: I'm very excited about any project and I'm listening to music all the time
 - 📫 How to reach me:
   <div>
