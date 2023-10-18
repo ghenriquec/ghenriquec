@@ -8,7 +8,6 @@ My name is Guilherme Henrique, I'm 19 years old. I graduated from technical high
 - 👯 I'm looking to collaborate on Java projects
 - 🤔 I'm looking for help with Java
 - 💬 Ask me about Java or anything tech related.
-- ⚡ Fun fact: I'm very excited about any project and I'm listening to music all the time
 - 📫 How to reach me:
   <div>
   <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"        target="_blank"></a>
