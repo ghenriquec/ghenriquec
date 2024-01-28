@@ -1,63 +1,16 @@
-## Hello, I am [Guilherme Henrique!](http://aboutme.mywebcommunity.org/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghenriquec&label=Views&color=blue&style=plastic" alt="" /> </p>
+## Hello, I am Guilherme Henrique!  
+💻| Middle Software Engineer at Sicoob Credicom  
+🌍| Belo Horizonte - Minas Gerais
 
-## 💻 About me
-My name is Guilherme Henrique, I'm 19 years old. I graduated from technical high school and am currently studying software engineering at PUC-MINAS.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ghenriquec/)](https://www.linkedin.com/in/ghenriquec/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guihenc_/)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ghenriquec)
 
-- 🌱 I am currently learning more about Java, AngularJs and SQL
-- 👯 I'm looking to collaborate on Java projects
-- 🤔 I'm looking for help with Java
-- 💬 Ask me about Java or anything tech related.
-- 📫 How to reach me:
-  <div>
-  <a href = "mailto:ghenriquecoelhosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"        target="_blank"></a>
-  <a href = "https://www.instagram.com/ghcoelhosantos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "www.linkedin.com/in/ghenriquec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
+## About me  
+I'm Guilherme Henrique, a 19-year-old software engineer deeply passionate about technology, specializing in Java. I am constantly seeking new challenges and opportunities to apply my skills in innovative projects and contribute unique perspectives. Let's connect and explore the world together!
 
+## My contacts  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ghenriquecoelhosantos@gmail.com?subject=Hello)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/ghenriquec/)](https://www.linkedin.com/in/ghenriquec/)
 
-## 🛠️Tech Stack
-<div>
-<img  src="https://img.shields.io/badge/Java-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img  src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-<img  src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
-<img  src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-<img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-
-## 🛠️Code Activity
-
-<p align="left">
-  <a href="https://github.com/ghenriquec">
-    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquec&layout=compact&theme=discord_old_blurple"/>
-    </a>
-  </a>
-</p>
-
-## 🛠️Projects
-
-<a href="https://github.com/ghenriquec/WatchMe-Chapter01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=WatchMe-Chapter01&theme=discord_old_blurple" />
-</a>
-<a href="https://github.com/ghenriquec/ToDoList-Chapter01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghenriquec&repo=ToDoList-Chapter01&theme=discord_old_blurple" />
-</a>
-
-
-## 💻Tips for Readme
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=othneildrew&repo=Best-README-Template&theme=discord_old_blurple" />
-  </a>
-
-
-## ❤ Thank You for visit my profile!
-<img align="center" src="https://github.com/ghenriquec/ghenriquec/blob/main/dino.gif" />
+## Thank you for visited my profile!
