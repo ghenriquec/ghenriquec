@@ -12,5 +12,3 @@ I'm Guilherme Henrique, a 20-year-old software engineer deeply passionate about 
 ## My contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ghenriquecoelhosantos@gmail.com?subject=Hello)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/ghenriquec/)](https://www.linkedin.com/in/ghenriquec/)
-
-## Thank you for visited my profile!
