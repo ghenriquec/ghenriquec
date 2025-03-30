@@ -1,14 +1,27 @@
-## Hello, I am Guilherme Henrique!  
-💻| Software Engineer at Sicoob Credicom  
-🌍| Belo Horizonte - Minas Gerais
+## 👋 Hello, I'm Guilherme Henrique!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ghenriquec/)](https://www.linkedin.com/in/ghenriquec/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guihenc_/)
+💻 Software Engineer at Sicoob Credicom  
+🌍 Based in Belo Horizonte – Minas Gerais, Brazil  
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guihenriquecoelho)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ghenriquec)
 
-## About me  
-I'm Guilherme Henrique, a 20-year-old software engineer deeply passionate about technology, specializing in Java. I am constantly seeking new challenges and opportunities to apply my skills in innovative projects and contribute unique perspectives. Let's connect and explore the world together!
+---
 
-## My contacts  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ghenriquecoelhosantos@gmail.com?subject=Hello)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/ghenriquec/)](https://www.linkedin.com/in/ghenriquec/)
+## 🧠 About Me
+
+Fullstack Software Engineer specializing in high-performance, scalable systems.  
+I have 4+ years of experience building distributed applications using:
+
+**Java • Spring Boot • Microservices • Docker • DB2 • Angular**  
+
+Worked on critical systems at **Sicoob**, impacting over 8 million users.  
+Enthusiast of clean architecture, system design, and code quality.
+
+---
+
+## 📫 Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermehenriquecoelhos.dev@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guihenriquecoelho)
+
