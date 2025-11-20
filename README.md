@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Guilherme Henrique!
 
-💻 Software Engineer at Sicoob Credicom  
+💻 Senior Software Engineer at Sicoob Credicom  
 🌍 Based in Belo Horizonte – Minas Gerais, Brazil  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guihenriquecoelho)
