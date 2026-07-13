@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Guilherme Henrique!
 
-💻 Senior Software Engineer at Sicoob Credicom  
+💻 Senior Software Engineer at prodemge
 🌍 Based in Belo Horizonte – Minas Gerais, Brazil  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guihenriquecoelho)
@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 Fullstack Software Engineer specializing in high-performance, scalable systems.  
-I have 4+ years of experience building distributed applications using:
+I have 6+ years of experience building distributed applications using:
 
 **Java • Spring Boot • Microservices • Docker • DB2 • Angular**  
 
