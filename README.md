@@ -20,9 +20,9 @@ Currently a **Senior Software Engineer at PRODEMGE**, I primarily work with **Ja
 
 | Project | What it demonstrates |
 | --- | --- |
+| [People Registration](https://github.com/ghenriquec/cadastro-pessoas) | A Java 17 / Spring Boot 3 CRUD project with PostgreSQL, REST controllers, unit tests, and a React frontend. |
 | [Universal Domain Rules Discovery](https://github.com/ghenriquec/universal-domain-rules-discover-skill) | A vendor-neutral protocol for AI agents to extract, validate, and trace domain rules, with schemas, tests, and CI. |
 | [QA Sentinel](https://github.com/ghenriquec/qa-sentinel-skill) | A portable, read-only QA auditing skill for discovering business rules, examining flows, and reporting defects with evidence. |
-| [Clinic Management System](https://github.com/ghenriquec/clinic-management-system) | A Next.js application project exploring clinic scheduling and operational workflows. |
 
 These repositories are examples of my work and experimentation. For architecture decisions, validation approaches, and usage instructions, see each project's documentation.
 
