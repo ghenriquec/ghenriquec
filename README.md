@@ -14,12 +14,13 @@ I prefer executable examples and explicit trade-offs over long lists of technolo
 
 | Work | What you can inspect |
 | --- | --- |
-| **[Ledger Core — Java concurrency lab](https://github.com/ghenriquec/faang-engineer-path/tree/main/labs/ledger-core)** | Atomic transfers, idempotency keys, lock ordering, race tests, and documented durability limitations. [Architecture](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/ledger-core/ARCHITECTURE.md) · [JUnit suite](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/ledger-core/src/test/java/dev/ghenriquec/ledger/LedgerTest.java) · [CI](https://github.com/ghenriquec/faang-engineer-path/actions/workflows/ledger-core.yml) |
+| **[Ledger Core — Java 21](https://github.com/ghenriquec/faang-engineer-path/tree/main/labs/ledger-core)** | In-memory transfer atomicity, idempotency, lock ordering, oversubscription tests and failure handling. [Architecture](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/ledger-core/ARCHITECTURE.md) · [Tests](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/ledger-core/src/test/java/dev/ghenriquec/ledger/LedgerTest.java) |
+| **[PostgreSQL Ledger — JDBC / SQL](https://github.com/ghenriquec/faang-engineer-path/tree/main/labs/postgres-ledger)** | Relational transactions, durable idempotency keys, canonical row locks and concurrent integration tests with PostgreSQL. [Architecture](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/postgres-ledger/ARCHITECTURE.md) · [Integration tests](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/postgres-ledger/src/test/java/dev/ghenriquec/ledger/sql/PostgresLedgerTest.java) · [CI](https://github.com/ghenriquec/faang-engineer-path/actions/workflows/postgres-ledger.yml) |
 | **[Universal Domain Rules Discovery](https://github.com/ghenriquec/universal-domain-rules-discover-skill)** | A portable agent protocol with JSON Schemas, behavioral validator tests, evidence traceability, and CI. |
 | **[People Registration](https://github.com/ghenriquec/cadastro-pessoas)** | Java 17, Spring Boot, PostgreSQL, REST controllers, JUnit/Mockito tests, and a React interface. |
 | **[QA Sentinel](https://github.com/ghenriquec/qa-sentinel-skill)** | A read-only QA auditing protocol: rule discovery, risk-based findings, evidence, and structured reports. |
 
-The [Ledger Core lab](https://github.com/ghenriquec/faang-engineer-path/tree/main/labs/ledger-core) is intentionally single-process and in-memory; it does **not** claim durable transactions or production banking capabilities.
+These two labs deliberately separate **single-JVM safety** from **database transaction guarantees**. Both are educational exercises, not deployed financial services. Their ADRs explain observed deadlocks, recovery semantics and durability limits.
 
 ## Technical focus
 
