@@ -1,39 +1,39 @@
 # Guilherme Henrique
 
-**Senior Software Engineer · Java & Spring Boot · Backend Architecture**
+**Senior Software Engineer | Java & Spring Boot | Backend Systems, Correctness & Architecture**
 
-Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/guihenriquecoelho/) · [Dev.to](https://dev.to/ghenriquec) · [Email](mailto:guilhermehenriquecoelhos.dev@gmail.com)
+Based in Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/guihenriquecoelho/) · [Dev.to](https://dev.to/ghenriquec) · [Email](mailto:guilhermehenriquecoelhos.dev@gmail.com)
 
-I am a software engineer working with business-critical applications, with a focus on backend development, maintainable architecture, and reliable systems. I've worked in software development since 2019, including projects in financial services and the public sector.
+I work on business-critical software, with an emphasis on **backend engineering, business rules, and systems that remain understandable and reliable as they evolve**. I have worked in software development since 2019, including financial-services and public-sector applications.
 
-Currently a **Senior Software Engineer at PRODEMGE**, I primarily work with **Java, Spring Boot, and enterprise applications**. I care about clearly defined business rules, practical system design, and code quality that supports long-term evolution.
+Currently a **Senior Software Engineer at PRODEMGE**, I focus primarily on Java and enterprise systems. My interests include consistency, distributed-system failure modes, pragmatic architecture, and AI-assisted software quality.
 
-## Engineering focus
+## Engineering evidence
 
-- **Backend:** Java, Spring Boot, REST APIs, integrations, and domain modeling
-- **Architecture:** distributed systems, microservices, system design, and maintainability
-- **Quality:** automated testing, technical documentation, traceability, and CI
-- **Full-stack:** Angular, TypeScript, and Next.js
-- **Data & delivery:** SQL, DB2, Docker, and GitHub Actions
+I prefer executable examples and explicit trade-offs over long lists of technologies.
 
-## Selected projects
-
-| Project | What it demonstrates |
+| Work | What you can inspect |
 | --- | --- |
-| [People Registration](https://github.com/ghenriquec/cadastro-pessoas) | A Java 17 / Spring Boot 3 CRUD project with PostgreSQL, REST controllers, unit tests, and a React frontend. |
-| [Universal Domain Rules Discovery](https://github.com/ghenriquec/universal-domain-rules-discover-skill) | A vendor-neutral protocol for AI agents to extract, validate, and trace domain rules, with schemas, tests, and CI. |
-| [QA Sentinel](https://github.com/ghenriquec/qa-sentinel-skill) | A portable, read-only QA auditing skill for discovering business rules, examining flows, and reporting defects with evidence. |
+| **[Ledger Core — Java concurrency lab](https://github.com/ghenriquec/faang-engineer-path/tree/main/labs/ledger-core)** | Atomic transfers, idempotency keys, lock ordering, race tests, and documented durability limitations. [Architecture](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/ledger-core/ARCHITECTURE.md) · [JUnit suite](https://github.com/ghenriquec/faang-engineer-path/blob/main/labs/ledger-core/src/test/java/dev/ghenriquec/ledger/LedgerTest.java) · [CI](https://github.com/ghenriquec/faang-engineer-path/actions/workflows/ledger-core.yml) |
+| **[Universal Domain Rules Discovery](https://github.com/ghenriquec/universal-domain-rules-discover-skill)** | A portable agent protocol with JSON Schemas, behavioral validator tests, evidence traceability, and CI. |
+| **[People Registration](https://github.com/ghenriquec/cadastro-pessoas)** | Java 17, Spring Boot, PostgreSQL, REST controllers, JUnit/Mockito tests, and a React interface. |
+| **[QA Sentinel](https://github.com/ghenriquec/qa-sentinel-skill)** | A read-only QA auditing protocol: rule discovery, risk-based findings, evidence, and structured reports. |
 
-These repositories are examples of my work and experimentation. For architecture decisions, validation approaches, and usage instructions, see each project's documentation.
+The [Ledger Core lab](https://github.com/ghenriquec/faang-engineer-path/tree/main/labs/ledger-core) is intentionally single-process and in-memory; it does **not** claim durable transactions or production banking capabilities.
 
-## How I think about software
+## Technical focus
 
-Good engineering is not about adding complexity. It is about making trade-offs explicit, keeping business behavior understandable, and building systems that can be tested, operated, and changed with confidence.
+- **JVM and backend:** Java, Spring Boot, APIs, persistence, domain modeling, and enterprise integrations.
+- **Correctness and reliability:** concurrency, idempotency, automated tests, validation, and failure analysis.
+- **Architecture:** system boundaries, trade-offs, evolutionary design, and distributed-systems fundamentals.
+- **Delivery:** SQL / DB2, Docker, GitHub Actions; full-stack work with Angular and TypeScript.
 
-My areas of continued study include distributed systems, software architecture, cloud infrastructure, and AI-assisted software engineering.
+## Engineering principles
 
-## Connect
+**Design for clarity. Verify behavior. Document the trade-offs.**
 
-- **LinkedIn:** [linkedin.com/in/guihenriquecoelho](https://www.linkedin.com/in/guihenriquecoelho/)
-- **Writing:** [dev.to/ghenriquec](https://dev.to/ghenriquec)
-- **Email:** [Get in touch](mailto:guilhermehenriquecoelhos.dev@gmail.com)
+I aim to make important business invariants visible in code and tests. When studying advanced patterns, I document what is implemented, what is measured, and what still needs evidence.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/guihenriquecoelho/) · [Writing](https://dev.to/ghenriquec) · [Email](mailto:guilhermehenriquecoelhos.dev@gmail.com)
